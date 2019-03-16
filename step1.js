@@ -23,6 +23,7 @@ var winCounter = 0;
 var lossCounter = 0;
 var numGuesses = 9;
 
+// write some funcs
 //write a function startGame() - // Its how we we will start and restart the game - for future use
 
 // checkLetters() function
@@ -36,5 +37,5 @@ var numGuesses = 9;
 // write code that controls the game
 // run startGame()
 // initiate capturing clicks (hint, document.onkeup = func(event)) 
-- also change any upper case to lowercase
+// - also change any upper case to lowercase
 // 
