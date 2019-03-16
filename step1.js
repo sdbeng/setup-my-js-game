@@ -23,8 +23,16 @@ var winCounter = 0;
 var lossCounter = 0;
 var numGuesses = 9;
 
-//startGame
+//write a function startGame() - // Its how we we will start and restart the game - for future use
 
-//foo
+// checkLetters() function
+// It's where we will do all of the comparisons for matches. for ex. for-loop'ing over your blanks, if the letter is in the word chosen figure it out where it is exactly, so it's a conditional that wraps another for-loop
 
-//bar
+// create a complete round func - all code that needs to be run after each guess is made - roundComplete()
+// in here you'll log the win, loosses and guesses counters - update the DOM html to render the number of guesses - update the correct guesses (hint, getElementById())
+
+
+// main process
+// write code that controls the game
+// run startGame()
+// initiate capturing clicks (hint, document.onkeup = func(event))
