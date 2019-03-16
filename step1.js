@@ -36,6 +36,7 @@ var numGuesses = 9;
 // main process
 // write code that controls the game
 // run startGame()
-// initiate capturing clicks (hint, document.onkeup = func(event)) 
+
+// Then initiate capturing clicks (hint, document.onkeup = func(event)) 
 // - also change any upper case to lowercase
 // 
